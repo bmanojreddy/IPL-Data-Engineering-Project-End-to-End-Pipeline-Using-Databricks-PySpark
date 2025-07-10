@@ -5,13 +5,13 @@ This project demonstrates an end-to-end data engineering workflow using IPL (Ind
 ⚙️ Tech Stack Used
 
 Apache Spark (PySpark) – Distributed data processing
-Databricks – Unified analytics platform for Spark
-Amazon S3 – Source of IPL dataset
-Python – Programming language used
-CSV Files – Input IPL data format
+* Databricks – Unified analytics platform for Spark
+* Amazon S3 – Source of IPL dataset
+* Python – Programming language used
+* CSV Files – Input IPL data format
 
 ✅ Data Preprocessing
-Loaded CSV files from DBFS (Databricks File System)
+Loaded CSV files from DBFS (Databricks File System)  
 Casted columns to appropriate data types
 Handled null values and removed unnecessary columns
 
